@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dotnet-workspace\\BookstoreWebApi\\Bookstore\\Bookstore\\Bookstore.csproj": {}
+  },
+  "projects": {
+    "C:\\dotnet-workspace\\BookstoreWebApi\\Bookstore\\Bookstore\\Bookstore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dotnet-workspace\\BookstoreWebApi\\Bookstore\\Bookstore\\Bookstore.csproj",
+        "projectName": "Bookstore",
+        "projectPath": "C:\\dotnet-workspace\\BookstoreWebApi\\Bookstore\\Bookstore\\Bookstore.csproj",
+        "packagesPath": "C:\\Users\\spuerta000\\.nuget\\packages\\",
+        "outputPath": "C:\\dotnet-workspace\\BookstoreWebApi\\Bookstore\\Bookstore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\spuerta000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
